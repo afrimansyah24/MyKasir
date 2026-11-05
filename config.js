@@ -15,7 +15,7 @@ window.MY_KASIR_CONFIG = {
   // Ganti dengan URL Worker Anda, contoh:
   //   workerUrl: 'https://my-kasir-api.akarna.workers.dev'
   workerUrl: '',
-
+   scriptUrl: 'https://script.google.com/macros/s/AKfycbxGGOG-qsWzG1Wl2fDUuKCjFv5evCORQmty7fN3qLImmJjiqP4H6XWqDHib7aIyq0iu7w/exec',
   // Nama toko yang tampil sebelum data dari server termuat (opsional).
   storeName: 'My Kasir'
 };
