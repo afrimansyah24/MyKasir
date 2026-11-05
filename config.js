@@ -25,7 +25,7 @@ window.MY_KASIR_CONFIG = {
   //    Backend dipanggil lewat JSONP (bukan POST), jadi:
   //    - tidak bisa kirim file binary (foto produk tetap pakai URL)
   //    - URL Apps Script jadi terlihat publik
-  scriptUrl: '',
+  scriptUrl: 'https://script.google.com/macros/s/AKfycbxGGOG-qsWzG1Wl2fDUuKCjFv5evCORQmty7fN3qLImmJjiqP4H6XWqDHib7aIyq0iu7w/exec',
 
   // Nama toko yang tampil sebelum data dari server termuat (opsional).
   storeName: 'My Kasir'
